@@ -28,6 +28,17 @@ description: >-
 Khi được gọi thoại và gọi video giữa 2 cá nhân, điện thoại hoặc máy tính của bạn sẽ đổ chuông đó!
 {% endhint %}
 
+*   ![](<../.gitbook/assets/image (122).png>)
+
+    Khi nhấn vào tên của người bạn đang trò chuyện hoặc nhóm trò chuyện trên điện thoại, bạn có thể:
+
+    * **Tìm kiếm tin nhắn** trong cuộc trò chuyện.
+    * **Điều chỉnh cài đặt thông báo** cho cuộc trò chuyện.
+    * **Xem danh sách thành viên** (trong nhóm trò chuyện, mọi thành viên đều có thể thêm người mới, nhưng chỉ trưởng nhóm mới có quyền xóa thành viên).
+    * **Xem nội dung đa phương tiện** đã chia sẻ, bao gồm ảnh và video.
+    * **Xem các tệp đã gửi** trong cuộc trò chuyện.
+    * **Xem các tin nhắn được ghim** để dễ dàng theo dõi nội dung quan trọng.
+
 ### **Ưu điểm của trao đổi trực tuyền qua Mezon**
 
 * **Miễn phí hoàn toàn**: Tất cả các tính năng giao tiếp và kết nối trên Mezon **hoàn toàn miễn phí** và **không hề bị giới hạn rào cản** nào.&#x20;
