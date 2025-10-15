@@ -24,6 +24,12 @@ Dưới đây là toàn bộ các thành phần trong hệ sinh thái Mezon:
 
 ***
 
+### 🔹 Games on Mezon
+
+* [**Gems of Gods**](https://top.mezon.ai/bot/44aca2c1-b008-4962-9407-862dcfa74bc5) – trò chơi nhập vai kết hợp giải đố (Puzzle-RPG) với lối chơi match-3 hấp dẫn, được phát triển bởi NCCPLUS.
+
+***
+
 ### 🔹 Tài liệu
 
 * [**User Docs**](https://docs.mezon.ai/) – Tài liệu dành cho người dùng.
