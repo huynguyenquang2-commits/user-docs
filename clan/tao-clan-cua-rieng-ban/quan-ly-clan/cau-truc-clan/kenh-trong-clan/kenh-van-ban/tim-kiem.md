@@ -12,9 +12,9 @@ description: >-
 
 <figure><img src="../../../../../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
-Ví dụ: Nhập "báo cáo tài chính" để tìm tất cả các nội dung liên quan.
+**Ví dụ:** Nhập "báo cáo tài chính" để tìm tất cả các nội dung liên quan.
 
-Kết quả: Mezon sẽ hiển thị các tin nhắn, tệp đính kèm hoặc nội dung khác chứa từ khóa của bạn.
+**Kết quả:** Mezon sẽ hiển thị các tin nhắn, tệp đính kèm hoặc nội dung khác chứa từ khóa của bạn.
 
 ### 2. Tìm Kiếm Nâng Cao Với Các Bộ Lọc Đặc Biệt
 
@@ -22,11 +22,11 @@ Kết quả: Mezon sẽ hiển thị các tin nhắn, tệp đính kèm hoặc n
 
 #### 2.1. Tìm Theo Người Gửi
 
-Mục đích: Lọc các tin nhắn được gửi bởi một người dùng cụ thể.
+**Mục đích**: Lọc các tin nhắn được gửi bởi một người dùng cụ thể.
 
-> **Cú pháp: Gõ > (dấu lớn hơn) ngay trước tên người gửi.**
+**Cú pháp:** Gõ > (dấu lớn hơn) ngay trước tên người gửi.
 
-Ví dụ:
+**Ví dụ**:
 
 \>an.nguyenthanh: Tìm tất cả tin nhắn từ "an.nguyenthanh".
 
@@ -34,11 +34,11 @@ Ví dụ:
 
 #### 2.2. Tìm Theo Người Được Nhắc Đến (Mention)
 
-Mục đích: Lọc các tin nhắn có nhắc đến (tag/mention) một người dùng hoặc vai trò/kênh cụ thể.
+**Mục đích:** Lọc các tin nhắn có nhắc đến (tag/mention) một người dùng hoặc vai trò/kênh cụ thể.
 
-> **Cú pháp: Gõ \~ (dấu ngã) ngay trước tên người được nhắc đến.**
+**Cú pháp:** Gõ \~ (dấu ngã) ngay trước tên người được nhắc đến.
 
-Ví dụ:
+**Ví dụ:**
 
 \~anh.nguyentram: Lọc các tin nhắn có nhắc đến "anh.nguyentram".
 
@@ -46,11 +46,11 @@ Ví dụ:
 
 #### 2.3. Lọc Nội Dung Đính Kèm
 
-Mục đích: Tìm kiếm các tin nhắn có chứa các loại tệp đính kèm cụ thể.
+**Mục đích:** Tìm kiếm các tin nhắn có chứa các loại tệp đính kèm cụ thể.
 
-Cú pháp: Gõ & (dấu và) để hiển thị các lựa chọn lọc.
+**Cú pháp:** Gõ & (dấu và) để hiển thị các lựa chọn lọc.
 
-Các lựa chọn phổ biến:
+**Các lựa chọn phổ biến:**
 
 * & has:video: Tìm tin nhắn có video.
 * & has:link: Tìm tin nhắn có liên kết.
@@ -61,21 +61,30 @@ Các lựa chọn phổ biến:
 Kết hợp với từ khóa: Bạn có thể kết hợp & với từ khóa.
 {% endhint %}
 
-#### 2.4. Tìm từ khóa chính xác
+#### 2.4. Tìm kiếm cụm từ chính xác hoặc tương tự
 
-Mục đích: Tìm các tin nhắn có cụm từ chính xác, thay vì tìm những tin nhắn có chưa 1 trong những từ khóa được tìm kiếm.
+**Mục đích:**
 
-Cú pháp: Gõ cụm từ tìm kiếm trong dấu ' ' (ngoặc đơn) hoặc " " (ngoặc kép).&#x20;
+* Dùng **dấu ngoặc đơn `' '`** để tìm **cụm từ chính xác**, khớp hoàn toàn theo thứ tự các từ.
+* Dùng **dấu ngoặc kép `" "`** để tìm **cụm từ tương tự**, bao gồm các biến thể hoặc cụm từ có nghĩa gần giống.
 
-Ví dụ: 'Chiều thứ 3': Lọc các tin nhắn có chính xác cụm từ khóa "chiều thứ 3", không lọc "Chiều ngày thứ 3" hay "Chiều thứ".&#x20;
+**Cú pháp:**
+
+* Cụm từ chính xác: `'cụm từ tìm kiếm'`
+* Cụm từ tương tự: `"cụm từ tìm kiếm"`
+
+**Ví dụ:**
+
+* `'Chiều thứ 3'` — chỉ hiển thị các tin nhắn có chính xác cụm từ _“Chiều thứ 3”_.
+* `"Chiều thứ 3"` — hiển thị cả những tin nhắn có cụm từ tương tự như _“Chiều ngày thứ 3”_ hoặc _“Buổi chiều thứ 3 đó”_.
 
 ### 3. Mẹo Nhanh Để Tìm Kiếm Hiệu Quả
 
-Kết hợp bộ lọc: Sử dụng nhiều bộ lọc cùng lúc để có kết quả chính xác nhất.&#x20;
+**Kết hợp bộ lọc**: Sử dụng nhiều bộ lọc cùng lúc để có kết quả chính xác nhất.&#x20;
 
-Ví dụ: >an.nguyenthanh & has:image (tìm ảnh từ An.nguyenthanh).
+**Ví dụ:** >an.nguyenthanh & has:image (tìm ảnh từ An.nguyenthanh).
 
-Hoặc: báo cáo & has:file: Tìm các tệp đính kèm có chứa từ "báo cáo".
+**Hoặc**: báo cáo & has:file: Tìm các tệp đính kèm có chứa từ "báo cáo".
 
 {% hint style="success" %}
 Sử dụng từ khóa cụ thể: Càng cụ thể, kết quả càng chính xác.
