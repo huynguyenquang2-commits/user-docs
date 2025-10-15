@@ -13,11 +13,12 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="success" %}
+* Start your search with @ to find usernames.
+* Start your search with # to find Channels or Threads.
+{% endhint %}
+
 ### **Communication & Formatting Shortcuts:**
-
-* **Ctrl + B** or **\*\***&#x79;our tex&#x74;**\*\*:** **Bold** – Quickly format your text while chatting.
-
-<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 * **Ctrl + G:** **Send Buzz Message** – Sends a Buzz sound to all users in the channel or direct chat, even those with notifications muted, instantly capturing their attention.
 
@@ -31,7 +32,11 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
-* **# your big text: Big Text – Highlight important messages -** Type **#** followed by a space to create large text in chat.
+* **Ctrl + B** or **\*\***&#x79;our tex&#x74;**\*\*:** **Bold** – Quickly format your text while chatting.
+
+<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+
+* **Big Text – Highlight important messages -** Type **#** followed by a space to create large text in chat.
 
 {% hint style="info" %}
 Use **# to #####** for heading levels **1–6.**

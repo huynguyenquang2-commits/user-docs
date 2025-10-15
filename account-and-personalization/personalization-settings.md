@@ -24,6 +24,7 @@ In your **Personal Settings**, you’ll find the following sections:
 * Add an **avatar** and a short **bio**.
 * Change your **Direct Message Icon** – it replaces the Mezon logo and gives you quick access to private chats.
 * Edit your **Clan Profile** for each Clan — helping friends or teammates recognize you instantly.
+* A **QR code** for your personal account. Others can scan the QR code to connect with you, add you as a friend, or call you.
 
 {% hint style="success" %}
 You can set **different display names and avatars** for every Clan you join!

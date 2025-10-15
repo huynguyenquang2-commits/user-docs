@@ -30,6 +30,9 @@ description: >-
   * Turn your **microphone** or **camera** on/off anytime.
   * **Share your screen** during calls.
   * Enjoy **stable connections** with **HD video** and **low-latency voice** support.
+* ![](../.gitbook/assets/image.png)\
+  **Search:** Find messages within the chat.\
+  For more advanced search options, see [**Search**](../clan/create-your-own-clan/manage-clan/clan-structure/channels/text-channel/search.md).&#x20;
 
 {% hint style="success" %}
 When a voice or video call is made between two individuals, your phone or computer will ring!
