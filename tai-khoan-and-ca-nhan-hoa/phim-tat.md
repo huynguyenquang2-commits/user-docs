@@ -14,7 +14,7 @@ description: >-
 <div align="left"><figure><img src="../.gitbook/assets/image (102).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-* Bắt đầu tìm kiếm với @ để tìm tên người dùng
+* Bắt đầu tìm kiếm với @ để tìm tên người dùng.
 * Bắt đầu tìm kiếm với # để tìm Kênh hoặc chủ đề.
 {% endhint %}
 
