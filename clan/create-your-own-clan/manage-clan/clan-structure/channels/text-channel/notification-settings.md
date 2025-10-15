@@ -8,7 +8,7 @@ description: >-
 
 ### **How to Customize Notifications:**
 
-<figure><img src="../../../../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 * **Mute Channel** – Completely mute notifications from the channel for a chosen period (e.g., 15 minutes, 1 hour) or until you decide to unmute.
 * **Use Category Default** – Apply the same notification settings as the channel’s category.

@@ -10,7 +10,7 @@ description: >-
 
 **How to Use:** Enter a keyword or phrase into the search box at the top of the Mezon app or website.
 
-<figure><img src="../../../../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 **Example:** Enter `"financial report"` to find all related content.
 

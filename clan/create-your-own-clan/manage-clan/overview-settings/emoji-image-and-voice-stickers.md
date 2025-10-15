@@ -11,11 +11,11 @@ description: >-
 
 1. In the left menu, select **Emojis**, **Image Stickers**, or **Voice Stickers** depending on your needs.
 
-<figure><img src="../../../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 2. Click **Upload Emoji/Image/Voice Sticker**.
 
-<figure><img src="../../../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 * Maximum: 250 emojis per Clan
 * File types: JPEG, PNG, GIF
@@ -23,7 +23,7 @@ description: >-
 * Recommended size: 128x128 pixels
 * Naming: Minimum 2 characters; letters, numbers, and underscores only
 
-<figure><img src="../../../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 * Maximum: 250 image stickers per Clan
 * File types: PNG, APNG, GIF
@@ -31,7 +31,7 @@ description: >-
 * Recommended size: 320x320 pixels
 * Naming: Minimum 2 characters; letters, numbers, and underscores only
 
-<figure><img src="../../../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 * Maximum: 250 voice stickers per Clan
 * File types: MP3, WAV
@@ -40,7 +40,7 @@ description: >-
 
 3.  Click **Browse** to select the emoji/sticker you want to add, then click **Upload** to complete.
 
-    <figure><img src="../../../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 You can also check **“This is a paid item”** when uploading an emoji or image sticker to require users to purchase it using Mezon Coins. Currently, the default price is **500 Mezon Coins per emoji/sticker**.
 

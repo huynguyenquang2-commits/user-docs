@@ -14,11 +14,11 @@ This action **cannot be undone**. All data, channels, and content within the Cla
 
 1. In the left menu, select **Delete Clan**.
 
-<figure><img src="../../../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 2. Re-enter the Clan name to confirm.
 
-<figure><img src="../../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
 3. Click **Delete Clan**.
 

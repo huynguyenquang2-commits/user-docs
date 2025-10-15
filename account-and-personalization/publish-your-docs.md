@@ -22,14 +22,14 @@ layout:
 
 ### **Sign Up with Email and OTP**
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter your email → receive an **OTP** sent to your inbox.
 2. Enter the **OTP** to verify your account.
 
 ### **Sign Up with Email and Password**
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 After logging in for the first time, users can set a password in their profile settings.\
 Once the password is created, it can be used for future logins to **Mezon**.
@@ -43,16 +43,16 @@ Each user can be logged in on up to **5 devices** simultaneously.
 1. Open **Mezon** on your mobile device.
 2. Go to **Profile → Settings → Scan QR**.
 
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 3. **Scan the QR code** displayed on your computer screen.
 
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Quick Tip:** You can also tap the **Scan** button at the top of any Clan interface - no need to go through the Settings menu.
 
-![](<../.gitbook/assets/image (81).png>)
+![](<../.gitbook/assets/image (82).png>)
 {% endhint %}

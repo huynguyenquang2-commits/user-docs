@@ -10,10 +10,10 @@ description: >-
 ### **How to Use Threads:**
 
 1. Open Mezon and select the **Text Channel** where you want to communicate.
-2. Click the **thread icon** <img src="../../../../../../.gitbook/assets/image (18).png" alt="" data-size="line"> in the chat toolbar.
+2. Click the **thread icon** <img src="../../../../../../.gitbook/assets/image (19).png" alt="" data-size="line"> in the chat toolbar.
 3. Select **Create** to start a new thread.
 4. Enter the **thread name** and send the first message to begin the discussion with the group.
 
 * To make a thread **private** (visible only to invited members and managers), select **Private Thread** at the bottom.
 
-<figure><img src="../../../../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>

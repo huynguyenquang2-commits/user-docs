@@ -31,7 +31,7 @@ When creating an Event, you can choose the format that fits your needs:
 
 1. In the left navigation panel, select **Events**.
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 2. **Choose the Event Location:**
 
@@ -41,7 +41,7 @@ When creating an Event, you can choose the format that fits your needs:
 
 3. Enter the **Event details** and click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Maximum **Event Cover Image** size: 1 MB.
@@ -49,8 +49,8 @@ Maximum **Event Cover Image** size: 1 MB.
 
 4. Review the Event content and click **Create**.
 
-<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 5. Your Event will appear under **Events** in the left navigation panel.
 
-<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>

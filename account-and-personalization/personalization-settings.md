@@ -7,7 +7,7 @@ description: >-
 
 # Personalization Settings
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 In your **Personal Settings**, you’ll find the following sections:
 
@@ -18,7 +18,7 @@ In your **Personal Settings**, you’ll find the following sections:
 
 ### **2. Profiles - Personal Profile**
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 * Set your **display name**.
 * Add an **avatar** and a short **bio**.
@@ -37,7 +37,7 @@ The maximum file size for a **Direct Message Icon** is **1 MB**.
 
 ### **3. Appearance – Interface**
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 * Customize the color theme to match your style.
 
@@ -47,7 +47,7 @@ Use **dark mode** when chatting at night for a more comfortable viewing experien
 
 ### 4. Notifications - Notification Settings
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 * Hide message details when you need privacy.
 
@@ -57,7 +57,7 @@ Notifications will show only the title without content, keeping your information
 
 ### **5. Language – Interface Language**
 
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 * Mezon currently supports **Vietnamese** and **English**.
 * You can switch languages anytime in this section.

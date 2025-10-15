@@ -12,13 +12,13 @@ Visit [top.mezon.ai](https://top.mezon.ai) – Mezon’s official app marketplac
 
 Once you find a Bot/App you like, click the **"Invite"** button.
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 ### **3. Grant Safe Permissions**
 
 A permission window will appear. Select the Clan where you want to add the Bot/App, then click **"Authorize"**. Always carefully review the permissions requested by the Bot/App to ensure your Clan’s data remains secure.
 
-<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 **Done!**\
 After authorization, the Bot/App will immediately appear in your Clan’s member list and be ready to use.

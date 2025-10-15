@@ -8,7 +8,7 @@ description: Learn how to find, join, or leave an existing Clan.
 
 You can discover new Clans in two ways:
 
-1. Through the **Discover** button <img src="../.gitbook/assets/image (107).png" alt="" data-size="line"> within the app or directly via the [**Clans Website**](https://mezon.ai/clans/), where you can explore the most active communities on Mezon.
+1. Through the **Discover** button <img src="../.gitbook/assets/image (108).png" alt="" data-size="line"> within the app or directly via the [**Clans Website**](https://mezon.ai/clans/), where you can explore the most active communities on Mezon.
 2. Via an **invite link** shared by friends, teammates, or admins.
 
 Simply click **“Join”** to officially become part of that community.
@@ -25,7 +25,7 @@ Each user can join up to **50 Clans** at a time.
 
 ### **Leave a Clan**
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 * If you no longer wish to participate, you can select **Leave Clan** from the Clan’s settings.
 * Once you leave, **all message history and access** to that Clan’s channels **will be removed** from your account.

@@ -7,7 +7,7 @@ In this section, you can:
 * **Change Banner (Background)**: The banner is displayed directly below the Clan name. Minimum size is 960x540 pixels, with optimal display at a 16:9 ratio.
 * **Select Default Channel**: Choose a default channel to receive system messages and customize automatic messages.
 
-<figure><img src="../../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 * **Maximum Clan Avatar Size**: 1 MB
