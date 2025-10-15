@@ -46,6 +46,23 @@ To narrow results and find exactly what you need, use these filters:
 **Combine with keywords:** You can combine `&` with keywords.
 {% endhint %}
 
+#### **2.4. Search for an exact or match phrase**
+
+**Purpose:**
+
+* Use **single quotes `' '`** to find messages containing the **exact phrase**, matching the words in the exact order.
+* Use **double quotes `" "`** to find messages that **match the phrase loosely**, such as variations or partial matches.
+
+**Syntax:**
+
+* Exact phrase: `'search phrase'`
+* Match phrase: `"search phrase"`
+
+**Example:**
+
+* `'Tuesday afternoon'` — shows only messages with the exact phrase _“Tuesday afternoon”_.
+* `"Tuesday afternoon"` — shows messages that include related variations, such as _“Afternoon on Tuesday”_ or _“Tuesday’s afternoon meeting”_.
+
 ### **3. Quick Tips for Effective Search**
 
 * **Combine filters:** Use multiple filters together for more precise results.
