@@ -13,11 +13,12 @@ description: >-
 
 <div align="left"><figure><img src="../.gitbook/assets/image (102).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
+{% hint style="success" %}
+* Bắt đầu tìm kiếm với @ để tìm tên người dùng
+* Bắt đầu tìm kiếm với # để tìm Kênh hoặc chủ đề.
+{% endhint %}
+
 ## Phím tắt Giao tiếp & Định dạng:
-
-* **Ctrl + B**: In Đậm – Định dạng văn bản nhanh chóng khi trò chuyện.
-
-<div align="left"><figure><img src="../.gitbook/assets/image (100).png" alt="" width="210"><figcaption></figcaption></figure></div>
 
 * **Ctrl + G**: Gửi Tin Nhắn Buzz – Gửi âm thanh Buzz đến tất cả người dùng trong kênh hoặc tin nhắn trực tiếp kể cả đã tắt thông báo, thu hút sự chú ý ngay tức khắc.
 
@@ -31,6 +32,10 @@ description: >-
 
 ![](../.gitbook/assets/G_2_c.jpg)\
 
+
+* **Ctrl + B**: In Đậm – Định dạng văn bản nhanh chóng khi trò chuyện.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (100).png" alt="" width="210"><figcaption></figcaption></figure></div>
 
 * **Chữ lớn:** Làm nổi bật các tin nhắn quan trọng – Gõ **#** rồi thêm một khoảng trắng để tạo chữ lớn trong khung chat.
 

@@ -24,6 +24,7 @@ Trong phần **Cài đặt cá nhân**, bạn sẽ thấy các mục sau:
 * Thêm ảnh đại diện và tiểu sử ngắn.
 * Thay đổi Biểu tượng tin nhắn riêng - thay thế cho Logo Mezon để truy cập vào tin nhắn cá nhân
 * Thay đổi Hồ sơ Clan cho từng Clan. Đây là cách để bạn bè hoặc đồng đội trong Clan nhận ra bạn ngay lập tức.
+* Mã QR tới tài khoản cá nhân của bạn. Người khác có thể quét mã QR để két nối/kết bạn/gọi điện cho bạn.
 
 {% hint style="success" %}
 Bạn có thể đặt tên hiển thị và ảnh đại diện riêng biệt khác nhau cho từng Clan bạn tham gia!

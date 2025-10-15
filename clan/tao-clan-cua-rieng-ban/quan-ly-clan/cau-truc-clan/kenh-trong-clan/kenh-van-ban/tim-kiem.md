@@ -61,6 +61,14 @@ Các lựa chọn phổ biến:
 Kết hợp với từ khóa: Bạn có thể kết hợp & với từ khóa.
 {% endhint %}
 
+#### 2.4. Tìm từ khóa chính xác
+
+Mục đích: Tìm các tin nhắn có cụm từ chính xác, thay vì tìm những tin nhắn có chưa 1 trong những từ khóa được tìm kiếm.
+
+Cú pháp: Gõ cụm từ tìm kiếm trong dấu ' ' (ngoặc đơn) hoặc " " (ngoặc kép).&#x20;
+
+Ví dụ: 'Chiều thứ 3': Lọc các tin nhắn có chính xác cụm từ khóa "chiều thứ 3", không lọc "Chiều ngày thứ 3" hay "Chiều thứ".&#x20;
+
 ### 3. Mẹo Nhanh Để Tìm Kiếm Hiệu Quả
 
 Kết hợp bộ lọc: Sử dụng nhiều bộ lọc cùng lúc để có kết quả chính xác nhất.&#x20;

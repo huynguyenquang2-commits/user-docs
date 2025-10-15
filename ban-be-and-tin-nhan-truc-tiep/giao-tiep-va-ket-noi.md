@@ -25,6 +25,10 @@ description: >-
   * Bật/tắt micro, camera tùy ý
   * Chia sẻ màn hình trong cuộc gọi
   * Tín hiệu ổn định, hỗ trợ HD Video & Âm thanh độ trễ thấp.
+*   ![](<../.gitbook/assets/image (155).png>)\
+    Tìm kiếm: Tìm kiếm tin nhắn trong cuộc trò chuyện.
+
+    Một số tùy chọn tìm kiếm nâng cao có thể tham khảo tại: [**Tìm kiếm**](../clan/tao-clan-cua-rieng-ban/quan-ly-clan/cau-truc-clan/kenh-trong-clan/kenh-van-ban/tim-kiem.md).
 
 {% hint style="success" %}
 Khi được gọi thoại và gọi video giữa 2 cá nhân, điện thoại hoặc máy tính của bạn sẽ đổ chuông đó!
