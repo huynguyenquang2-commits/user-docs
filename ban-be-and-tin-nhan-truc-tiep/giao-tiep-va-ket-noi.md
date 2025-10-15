@@ -38,6 +38,10 @@ Khi được gọi thoại và gọi video giữa 2 cá nhân, điện thoại h
     * **Xem nội dung đa phương tiện** đã chia sẻ, bao gồm ảnh và video.
     * **Xem các tệp đã gửi** trong cuộc trò chuyện.
     * **Xem các tin nhắn được ghim** để dễ dàng theo dõi nội dung quan trọng.
+* **Chế độ Buzz**\
+  Nhấn vào **dấu ba chấm** ở góc trên cùng bên phải trong khung hội thoại, sau đó nhập nội dung tin nhắn để **gửi thông báo rung**, giúp thu hút sự chú ý của mọi người trong cuộc trò chuyện — **kể cả khi họ đã tắt thông báo**.
+
+<div><figure><img src="../.gitbook/assets/Capture d’écran 2025-10-15 120015 - Copy.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/z7118523927211_60b26425a496c82e3b5837bedf2a5a62 (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### **Ưu điểm của trao đổi trực tuyền qua Mezon**
 
