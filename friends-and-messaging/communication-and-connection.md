@@ -30,6 +30,21 @@ description: >-
     * Enjoy **HD video** and **low-latency audio** for a smooth experience.
 
     <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+*   Tapping on the name of your friend or the group chat name on your phone allows you to:
+
+    * Search messages within the conversation.
+    * Adjust notification settings for the chat.
+    * View the member list (in group chats, all members can add new people, but only the group admin has permission to remove members).
+    * See shared media, including photos and videos.
+    * View files sent in the conversation.
+    * See pinned messages to easily keep track of important content.
+
+    <figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+*   **Buzz Mode**
+
+    Tap the three dots in the top-right corner of the chat window, then type your message to send a vibrating notification. This helps grab everyone's attention in the conversation—even if they have their notifications turned off.
+
+<div><figure><img src="../.gitbook/assets/Capture d’écran 2025-10-15 120015.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/z7118500303659_b419207310c41268abca155082fe950b.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### **Why Communicate on Mezon?**
 
