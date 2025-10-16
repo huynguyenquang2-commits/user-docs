@@ -1,10 +1,10 @@
 ---
 description: >-
-  Instead of mixing important documents within the chat, Mezon provides Canva -
+  Instead of mixing important documents within the chat, Mezon provides Canvas -
   a visual note and sharing board directly within the channel.
 ---
 
-# Canva
+# Canvas
 
 ### **How to Use:**
 
@@ -17,7 +17,7 @@ description: >-
 4. Enter the **title** and **content** you want to share with the group.
 
 {% hint style="warning" %}
-Maximum image file size in Canva: 50 MB
+Maximum image file size in Canvas: 50 MB
 {% endhint %}
 
-With **Canva**, all members can update notes in **real-time**. All data is stored centrally, preventing it from being “lost” in the conversation. This helps the team save time searching and quickly access important information.
+With **Canvas**, all members can update notes in **real-time**. All data is stored centrally, preventing it from being “lost” in the conversation. This helps the team save time searching and quickly access important information.

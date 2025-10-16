@@ -11,7 +11,7 @@ description: >-
 
 In a Text Channel, you can explore the following key features:
 
-* **Canva** – Create and manage documents or notes within each channel.
+* **Canvas** – Create and manage documents or notes within each channel.
 * **Threads** – Separate topics for clearer discussions.
 * **Members** – View member lists and their activity status.
 * **Pinned Messages** – Pin important messages for easy access.

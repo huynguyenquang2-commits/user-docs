@@ -36,7 +36,7 @@
     * [Clan Structure](clan/create-your-own-clan/manage-clan/clan-structure/README.md)
       * [Channels](clan/create-your-own-clan/manage-clan/clan-structure/channels/README.md)
         * [Text Channel](clan/create-your-own-clan/manage-clan/clan-structure/channels/text-channel/README.md)
-          * [Canva](clan/create-your-own-clan/manage-clan/clan-structure/channels/text-channel/canva.md)
+          * [Canvas](clan/create-your-own-clan/manage-clan/clan-structure/channels/text-channel/canvas.md)
           * [Threads](clan/create-your-own-clan/manage-clan/clan-structure/channels/text-channel/threads.md)
           * [Members](clan/create-your-own-clan/manage-clan/clan-structure/channels/text-channel/members.md)
           * [Pinned Messages](clan/create-your-own-clan/manage-clan/clan-structure/channels/text-channel/pinned-messages.md)
