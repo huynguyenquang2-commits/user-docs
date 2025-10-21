@@ -8,6 +8,7 @@
 * [Đăng ký và Đăng nhập](tai-khoan-and-ca-nhan-hoa/dang-ky-va-dang-nhap.md)
 * [Quick tour](tai-khoan-and-ca-nhan-hoa/quick-tour.md)
 * [Tùy chỉnh cá nhân hóa](tai-khoan-and-ca-nhan-hoa/tuy-chinh-ca-nhan-hoa.md)
+* [Phím tắt](tai-khoan-and-ca-nhan-hoa/phim-tat.md)
 
 ## BẠN BÈ & TIN NHẮN TRỰC TIẾP
 
@@ -41,7 +42,6 @@
           * [Tệp tin](clan/tao-clan-cua-rieng-ban/quan-ly-clan/cau-truc-clan/kenh-trong-clan/kenh-van-ban/tep-tin.md)
           * [Ghim](clan/tao-clan-cua-rieng-ban/quan-ly-clan/cau-truc-clan/kenh-trong-clan/kenh-van-ban/ghim.md)
           * [Bảng ghi chú](clan/tao-clan-cua-rieng-ban/quan-ly-clan/cau-truc-clan/kenh-trong-clan/kenh-van-ban/bang-ghi-chu.md)
-          * [Tùy chọn tương tác](clan/tao-clan-cua-rieng-ban/quan-ly-clan/cau-truc-clan/kenh-trong-clan/kenh-van-ban/tuy-chon-tuong-tac.md)
         * [Kênh Thoại](clan/tao-clan-cua-rieng-ban/quan-ly-clan/cau-truc-clan/kenh-trong-clan/kenh-thoai.md)
         * [Kênh Phát trực tiếp](clan/tao-clan-cua-rieng-ban/quan-ly-clan/cau-truc-clan/kenh-trong-clan/kenh-phat-truc-tiep.md)
       * [Danh mục trong Clan](clan/tao-clan-cua-rieng-ban/quan-ly-clan/cau-truc-clan/danh-muc-trong-clan.md)

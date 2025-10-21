@@ -20,4 +20,4 @@ Trong **Kênh Văn bản**, bạn có thể khám phá các tính năng chính s
 * [**Tệp tin**](tep-tin.md)**:** Quản lý tất cả tệp đã gửi trong cuộc trò chuyện.
 * [**Ghim**](ghim.md)**:** Ghim những tin nhắn quan trọng để dễ truy cập.
 * [**Bảng ghi chú**](bang-ghi-chu.md)**:** Tạo và quản lý tài liệu, ghi chú trong từng kênh.
-* [**Tùy chọn tương tác**](tuy-chon-tuong-tac.md): Tùy chỉnh cách bạn tương tác với tin nhắn: tắt/ bật chế độ ẩn danh, Buzz.
+* [**Tùy chọn tương tác**](../../../../../../tai-khoan-and-ca-nhan-hoa/phim-tat.md): Tùy chỉnh cách bạn tương tác với tin nhắn: tắt/ bật chế độ ẩn danh, Buzz.
