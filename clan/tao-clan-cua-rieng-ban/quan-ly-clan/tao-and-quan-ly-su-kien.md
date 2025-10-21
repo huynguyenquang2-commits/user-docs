@@ -11,7 +11,7 @@ description: >-
 
 {% stepper %}
 {% step %}
-Ở thanh điều hướng bên trái, chọn **Events**.
+Ở thanh điều hướng bên trái, chọn **Sự kiện**.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (71).png" alt="" width="261"><figcaption></figcaption></figure></div>
 {% endstep %}

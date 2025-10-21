@@ -50,6 +50,7 @@
         * [Kênh phát trực tiếp](clan/tao-clan-cua-rieng-ban/quan-ly-clan/cau-truc-clan/kenh-trong-clan/kenh-phat-truc-tiep.md)
       * [Danh mục trong Clan](clan/tao-clan-cua-rieng-ban/quan-ly-clan/cau-truc-clan/danh-muc-trong-clan.md)
     * [Tạo & Quản lý Sự kiện](clan/tao-clan-cua-rieng-ban/quan-ly-clan/tao-and-quan-ly-su-kien.md)
+    * [Quản lý thành viên](clan/tao-clan-cua-rieng-ban/quan-ly-clan/quan-ly-thanh-vien.md)
     * [Quản lý thông báo trong Clan](clan/tao-clan-cua-rieng-ban/quan-ly-clan/quan-ly-thong-bao-trong-clan.md)
   * [Chuyển quyền sở hữu](clan/tao-clan-cua-rieng-ban/chuyen-quyen-so-huu.md)
 * [Thư mục Clan](clan/thu-muc-clan.md)
