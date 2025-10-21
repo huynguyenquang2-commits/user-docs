@@ -20,4 +20,4 @@ In a Text Channel, you can explore the following key features:
 * [**Files**](files.md)**:** Manage all files sent within the conversation.
 * [**Pinned Messages:**](pinned-messages.md) Pin important messages for easy access.
 * [**Canvas**](canvas.md)**:** Create and manage documents or notes within each channel.
-* [**Interaction Options**](interaction-options.md)**:** Customize how you interact with messages, such as enabling/disabling anonymous mode or Buzz.
+* [**Interaction Options**](../../../../../../account-and-personalization/shortcuts.md)**:** Customize how you interact with messages, such as enabling/disabling anonymous mode or Buzz.

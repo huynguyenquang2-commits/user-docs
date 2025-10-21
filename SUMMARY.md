@@ -8,6 +8,7 @@
 * [Sign Up & Log In](account-and-personalization/sign-up-and-log-in.md)
 * [Quick Tour](account-and-personalization/quick-tour.md)
 * [Personalization](account-and-personalization/personalization.md)
+* [Shortcuts](account-and-personalization/shortcuts.md)
 
 ## Friends & Messaging
 
@@ -41,7 +42,6 @@
           * [Files](clan/create-your-own-clan/manage-your-clan/clan-structure/channels-in-a-clan/text-channel/files.md)
           * [Pinned Messages](clan/create-your-own-clan/manage-your-clan/clan-structure/channels-in-a-clan/text-channel/pinned-messages.md)
           * [Canvas](clan/create-your-own-clan/manage-your-clan/clan-structure/channels-in-a-clan/text-channel/canvas.md)
-          * [Interaction Options](clan/create-your-own-clan/manage-your-clan/clan-structure/channels-in-a-clan/text-channel/interaction-options.md)
         * [Voice Channel](clan/create-your-own-clan/manage-your-clan/clan-structure/channels-in-a-clan/voice-channel.md)
         * [Stream Channel](clan/create-your-own-clan/manage-your-clan/clan-structure/channels-in-a-clan/stream-channel.md)
       * [Clan Category](clan/create-your-own-clan/manage-your-clan/clan-structure/clan-category.md)
