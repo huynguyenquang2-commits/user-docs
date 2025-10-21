@@ -4,7 +4,7 @@ description: Let's take a tour for your best experience on Mezon!
 
 # Quick tour
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 The **Mezon** interface is designed to be intuitive, allowing you to navigate effortlessly from the very first use. Below are the seven main areas you’ll interact with most often:
 

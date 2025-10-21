@@ -15,7 +15,7 @@ description: >-
     * **Voice Channel** – For voice chatting, screen sharing, or video calls. All free, with no limits on time or resolution!
     * **Live Channel** – Where the Clan owner can host broadcasts, talk shows, or regular podcasts.
 
-    <figure><img src="../../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 > When creating a channel, you can enable **Private Mode** so only selected members can see it.
 
@@ -27,11 +27,11 @@ Each Clan can have a maximum of **500 channels** at the same time.
 
 Click the **gear icon** next to the channel name to configure settings.
 
-<figure><img src="../../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### **Overview**
 
-<figure><img src="../../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 * **Channel Name** – Change the name of the channel.
 * **Channel Description** – Explain how members should use this channel (up to 1024 characters).
@@ -40,13 +40,13 @@ Click the **gear icon** next to the channel name to configure settings.
 
 #### **Category**
 
-<figure><img src="../../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 * Change the category the channel belongs to. You can also drag and drop the channel name in the Clan navigation to move it to another category.
 
 ### **Permissions**
 
-<figure><img src="../../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 * Manage who can view the channel.&#x20;
 * By default, channel permissions sync with the category it belongs to.
@@ -58,14 +58,14 @@ Permissions are available for **Text Channels** and **Voice Channels** only. **S
 
 ### **Integrations**
 
-<figure><img src="../../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 * Create and configure a **Webhook** for the channel.
 * Refer to [**Developer Doc**](https://app.gitbook.com/u/5hbm12F5PPaicTVNxajXSEJ6mcg1)[**s**](https://mezon.ai/docs/mezon-sdk-docs/) for more details on Mezon Webhooks & SDK.
 
 ### **Quick Menu**
 
-<figure><img src="../../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 * **Add Quick Messages** - Save frequently used phrases so you don’t have to type them repeatedly.
   * Example: Instead of typing “Could anyone send me a coffee?” every day, you can save it as a quick message and just type **/givemecoffee** to send it.

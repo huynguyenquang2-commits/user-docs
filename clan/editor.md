@@ -17,7 +17,7 @@ layout:
 
 # What is Clan?
 
-<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 A **Clan** is the heart of Mezon — where people connect, collaborate, and share through communities built around shared **interests, goals, or passions**.
 

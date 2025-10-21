@@ -32,7 +32,7 @@ Integrated apps can connect directly to your Mezon account, meaning:
 * Apps automatically recognize user identity and settings.
 * Personal data and preferences sync effortlessly.
 
-<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -46,7 +46,7 @@ Many companies use Mezon for internal operations by integrating custom managemen
 
 Everything happens **within Mezon** — no switching tabs, no separate software.
 
-<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -61,7 +61,7 @@ Users can log in with their Mezon account to:
 
 Mezon turns every Clan into a **hub for both productivity and entertainment**.
 
-<figure><img src="../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -74,7 +74,7 @@ Any app you can think of — from:
 * Survey and feedback forms,
 * Financial or market tracking dashboards — can all be built and run **directly inside Mezon**.
 
-<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

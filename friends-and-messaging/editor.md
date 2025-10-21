@@ -30,7 +30,7 @@ You can:
 * **See your friends’ online status** in real time.
 * **Block or remove connections** to keep your contact list clean and organized.
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 ### **1. Add Friend – Connect with New People**
 

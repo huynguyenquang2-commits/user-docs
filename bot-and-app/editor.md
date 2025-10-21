@@ -44,15 +44,15 @@ A prime example is **KOMU Bot**, used internally at Mezon to manage over 350 rem
 
 * Track online status and remind members who don’t respond.
 
-<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 * Automatically create meeting rooms with the command `*meeting now`.
 
-<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
 * Record daily check-ins and check-outs.
 
-<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -62,15 +62,15 @@ A prime example is **KOMU Bot**, used internally at Mezon to manage over 350 rem
 
 * Sending birthday greetings to employees.
 
-<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 * Reminding cleaning duties or periodic reports.
 
-<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
 * Even powering on office computers remotely with the command `*wol`.
 
-<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
 All of this happens **right inside Mezon** — no extra apps or complex interfaces needed.
 
@@ -100,7 +100,7 @@ For example, **Ainz Bot** is an RPG-style mini-game where players can:
 
 Join the fun with **Ainz Bot** at [_Clan Ainz World_](https://mezon.ai/invite/1976502267687211008)!
 
-<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -115,7 +115,7 @@ With access to your email and Mezon account, this Bot can:
 * Report and display key messages inside Mezon.
 * Let you reply directly in Mezon — the Bot sends the actual email for you.
 
-<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 **Example 2: Chat Monitoring & Summary Bot**\
 Using the **Shadow** feature, Bots can be granted permission to read specific chat channels.\
@@ -125,7 +125,7 @@ They can then:
 * Send daily or mention-based summaries.
 * Keep you updated without reading every single line.
 
-<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

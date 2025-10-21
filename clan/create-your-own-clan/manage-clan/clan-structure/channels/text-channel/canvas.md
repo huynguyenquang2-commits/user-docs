@@ -9,10 +9,10 @@ description: >-
 ### **How to Use:**
 
 1. Open Mezon and select the **Text Channel** or **Thread** where you want to collaborate.
-2. Click the **paper icon** <img src="../../../../../../.gitbook/assets/image (17).png" alt="" data-size="line"> in the chat toolbar.
+2. Click the **paper icon** <img src="../../../../../../.gitbook/assets/image (20).png" alt="" data-size="line"> in the chat toolbar.
 3. Select **Create** to start a new note.
 
-<figure><img src="../../../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 4. Enter the **title** and **content** you want to share with the group.
 

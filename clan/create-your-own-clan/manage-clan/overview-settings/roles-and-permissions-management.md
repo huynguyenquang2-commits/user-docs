@@ -12,7 +12,7 @@ As your community grows, both the number of members and the level of interaction
 
 #### **Available Permissions in the System**
 
-<figure><img src="../../../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 * **Administrator** – Full control over the Clan and channel list (almost equivalent to the owner).
 * **Manage Clan** – Manage Clan settings, roles, channels, and member activities.&#x20;
@@ -72,7 +72,7 @@ Not all members in a Clan need the same permissions. With **Roles**, you can cre
 1. In the left menu, select **Roles**.
 2. Click **Create Role**, then edit the **name, color, and icon** under **Displays**.
 
-<figure><img src="../../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Maximum Role Icon Size**: 256 KB
@@ -84,16 +84,16 @@ Not all members in a Clan need the same permissions. With **Roles**, you can cre
 You can grant or revoke advanced permissions by creating a new role and assigning it to specific members (done in **Manage Members**).
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 4. In **Permissions**, customize what actions the role can perform (e.g., Admin, Send Message, Delete Message, etc.).
 
-<figure><img src="../../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 5. Click **Save Changes** to apply the role settings.
 6. **Changing Role Display Order**
 
-![](<../../../../.gitbook/assets/image (120).png>)\
+![](<../../../../.gitbook/assets/image (123).png>)\
 Simply drag and drop roles to arrange their display order. If a member has multiple roles, the display will follow this order.
 
 ### **3. Override Permissions**
@@ -110,15 +110,15 @@ Simply drag and drop roles to arrange their display order. If a member has multi
 
 1. Click the **gear icon** on your private channel/thread.
 
-<figure><img src="../../../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 2. Select **Permissions** from the left menu.
 
-<figure><img src="../../../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 3. Customize the permissions for members in your channel.
 
-<figure><img src="../../../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 4. Click **Save Changes** to apply.
 

@@ -9,7 +9,7 @@ description: >-
 
 When joining a **Voice Channel**, you’ll see a range of features that make communication and collaboration comfortable and professional.
 
-<figure><img src="../../../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 **Voice Channel Controls:**
 
@@ -33,7 +33,7 @@ When joining a **Voice Channel**, you’ll see a range of features that make com
 
 You can also access important controls quickly from your **profile toolbar**, even when viewing another channel.
 
-<figure><img src="../../../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 Use the **Copy** button to quickly share the Voice Channel link in a Text Channel, inviting Clan members to join instantly.
 

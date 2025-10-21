@@ -7,23 +7,23 @@ description: >-
 
 # Communication & Connection
 
-<figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 ### **Main features:**
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 * **Multimedia Messaging:** Send text, emojis, stickers, images, videos, files, voice recordings, or voice stickers.
 
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 * **Pin Important Messages:** Save essential information for quick and easy access later.
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 * **Small Group Chats:** Create groups of up to 10 members, set a group avatar, manage the group name, and add or remove members easily.
 
-<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 * **Voice & Video Calls:** Communicate in real time through voice or video directly on **Mezon**.\
   Make **1-on-1** or **small group** calls with ease.

@@ -21,14 +21,14 @@ layout:
 
 # Download and Settings
 
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 ### **How to Install on Mobile (iOS/Android)**
 
 1. Open **App Store** (iOS) or **Google Play** (Android).
 2. Find “Mezon” and choose **Install**.
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 3. After downloading, open the app and grant permissions for the **microphone, camera, and notifications** to enjoy the full range of features.
 

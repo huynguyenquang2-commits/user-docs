@@ -18,7 +18,7 @@ If you want your Clan to become a “branded” community, widely recognized and
 
 * In the left menu, find and select **Enable Community**.
 
-<figure><img src="../../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 * Read the introduction, then click **Enable Community** at the bottom of the screen to confirm.
 
@@ -34,9 +34,9 @@ Once activated, you’ll be taken to the configuration page:
     * Example: Enter **my-awesome-community** to have:\
       [mezon.ai/clans/clan/my-awesome-community](http://mezon.ai/clans/clan/my-awesome-community).
 
-    <figure><img src="../../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Maximum file size for **Community Banner**: 10 MB

@@ -6,7 +6,7 @@ description: >-
 
 # Overview Settings
 
-<figure><img src="../../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 Open **Clan Settings**, and you will see the following sections:
 

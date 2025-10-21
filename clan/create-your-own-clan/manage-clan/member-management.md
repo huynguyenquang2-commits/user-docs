@@ -22,4 +22,4 @@
 
 4. You can quickly assign roles to each member by clicking the “+” sign in the **Role** column:
 
-<figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
