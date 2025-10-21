@@ -25,12 +25,12 @@ If you’re in multiple Clans, set most to **Only @mention**. This way, you won�
 
 Additionally, you can manage detailed notification settings for each Channel within a Clan by clicking the Clan name and selecting **Notification Settings**.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 **Notification Badge:** On the Taskbar, you can quickly check notification status through the Mezon icon:
 
-* <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="line">**Only Mezon Logo:** No new notifications.
-* <img src="../../../.gitbook/assets/image (3).png" alt="" data-size="line">**Red Dot next to the Mezon Logo:** You have new notifications.
+* <img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="line">**Only Mezon Logo:** No new notifications.
+* <img src="../../../.gitbook/assets/image (3) (1).png" alt="" data-size="line">**Red Dot next to the Mezon Logo:** You have new notifications.
 * <img src="../../../.gitbook/assets/image (157).png" alt="" data-size="line">**Number next to the Mezon Logo:** Someone mentioned you — the number indicates how many mentions you’ve received.
 {% endhint %}

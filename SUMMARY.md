@@ -50,6 +50,7 @@
         * [Stream Channel](clan/create-your-own-clan/manage-clan/clan-structure/channels/stream-channel.md)
       * [Clan Category](clan/create-your-own-clan/manage-clan/clan-structure/clan-category.md)
     * [Creating & Managing Events](clan/create-your-own-clan/manage-clan/creating-and-managing-events.md)
+    * [Member Management](clan/create-your-own-clan/manage-clan/member-management.md)
     * [Managing Notifications in a Clan](clan/create-your-own-clan/manage-clan/managing-notifications-in-a-clan.md)
   * [Transferring Clan Ownership](clan/create-your-own-clan/transferring-clan-ownership.md)
 * [Clan Folder](clan/clan-folder.md)
