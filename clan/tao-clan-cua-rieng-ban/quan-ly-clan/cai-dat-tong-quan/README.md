@@ -20,7 +20,7 @@ Hinh đại diện nên có kích thước 512x512, tổi thiểu 128x128. Giớ
 * [**Nhật ký kiểm tra**](nhat-ky-kiem-tra.md)**:** Xem lịch sử các thao tác quản trị trong Clan.
 * [**Tích hợp**](tich-hop.md)**:** Kết nối với bot hoặc ứng dụng ngoài để mở rộng tính năng.
 * [**Biểu tượng cảm xúc & Nhãn dán & Hiệu ứng âm thanh**](bieu-tuong-cam-xuc-and-nhan-dan-hinh-anh-and-nhan-dan-am-thanh.md)**:** Tải lên và quản lý bộ biểu tượng cảm xúc, nhãn dán và hiệu ứng âm thanh tùy chỉnh của Clan.
-* [**Quản lý thành viên**](quan-ly-thanh-vien.md): Xem danh sách thành viên của Clan
+* [**Quản lý thành viên**](../quan-ly-thanh-vien.md): Xem danh sách thành viên của Clan
 * [**Quản lý quyền hạn và vai trò**](quan-ly-quyen-han-va-vai-tro.md)**:** Tạo, sắp xếp và phân quyền cho từng vai trò của người dùng trong Clan.
 * **Lời mời:** Lấy liên kết và QR mời bạn bè tham gia Clan. \[[Tìm hiểu cách mời bạn bè vào Clan](../../moi-ban-be-vao-clan.md)]
 
