@@ -1,7 +1,5 @@
 # Phím tắt
 
-Trong kênh văn bản hoặc chủ đề, bạn có thể bật **ẩn danh** hoặc sử dụng **Buzz** để tạo cách trò chuyện linh hoạt và thu hút hơn.
-
 ### **Chế độ Ẩn danh**
 
 Tính năng **Ẩn danh** cho phép bạn gửi tin nhắn mà không hiển thị tên người dùng, giúp chia sẻ ý kiến hoặc góp ý một cách khách quan.
