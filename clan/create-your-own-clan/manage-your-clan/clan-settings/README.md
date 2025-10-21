@@ -20,7 +20,7 @@ Recommended size: **512×512 px** (minimum **128×128 px**), maximum file size *
 * [**Audit Log**](audit-log.md)**:** Review all admin and moderation activities within the Clan.
 * [**Integrations**](integrations.md)**:** Connect with external bots or apps to extend functionality.
 * [**Emojis, Image & Voice Stickers**](emojis-image-stickers-and-voice-stickers.md)**:** Upload and manage custom emoji packs, sticker sets, and voice stickers unique to your Clan.
-* [**Member Management**](member-management.md)**:** View and manage all members in your Clan.
+* [**Member Management**](../member-management.md)**:** View and manage all members in your Clan.
 * [**Roles & Permissions**](permissions-and-roles-management.md)**:** Create, organize, and assign roles with specific permissions.
 * **Invitations:** Generate invite links or QR codes to bring new members into your Clan.\
   &#xNAN;_\[_[_Learn how to invite friends to a Clan_](../../invite-friends-to-your-clan.md)_]_

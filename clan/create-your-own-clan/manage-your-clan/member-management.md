@@ -1,6 +1,8 @@
 # Member Management
 
-<figure><img src="../../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+In **Clan Settings**, you can access **Member Management**.
+
+<figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 Here, you can view the full list of members in your Clan.\
 Use the search bar to quickly find a specific person.
